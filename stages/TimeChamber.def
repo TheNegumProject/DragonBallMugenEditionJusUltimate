@@ -1,0 +1,488 @@
+;                        EDITED STAGE
+;=============================================================
+;  STAGE INFORMATION :
+;
+;  Resolution : 1280 * 720
+;  Mugen Version : Mugen 1.1 only
+;  Versiondate : Diciembre,2014
+;  Reedicion : Daniel's 
+;
+;=============================================================
+
+
+;--------------------------------------------------------
+[Info]
+name = "h"
+displayname = "h"
+mugenversion = 1.1
+author="Daniel's"
+;original = "Legend Ivanhoe and... =TapionProductions= Team OS"
+ 
+
+;--------------------------------------------------------
+[Camera]
+startx =0
+starty =0
+boundleft=-2000
+boundright=2000
+boundhigh=-150
+boundlow =0
+verticalfollow = .8
+tension = 50
+zoomin = 1.3
+zoomout = .9
+;--------------------------------------------------------
+[PlayerInfo]
+p1startx =-150
+p1starty =0
+p1startz =0
+p1facing =1
+
+p2startx =150
+p2starty =0
+p2startz =0
+p2facing =-1
+
+p3startx =-190
+p3starty =0
+p3startz =0
+p3facing =1
+
+p4startx =190
+p4starty =0
+p4startz =0
+p4facing =-1
+
+leftbound =-4000
+rightbound =4000
+topbound =0
+botbound =0
+
+;--------------------------------------------------------
+[Scaling]
+ ;No need to change these values
+topz     = 0       ;Top z-coordinate for scaling
+botz     = 50      ;Bottom z-coordinate for scaling
+topscale = 1       ;Scale to use at top
+botscale = 1.2     ;Scale to use at bottom
+
+;--------------------------------------------------------
+[Bound]
+screenleft=45
+screenright=45
+
+;--------------------------------------------------------
+[StageInfo]
+zoffset =300
+autoturn = 1
+resetBG = 1
+localcoord=640,360
+xscale = 1
+yscale = 1
+;hires=1
+
+;--------------------------------------------------------
+[Shadow]
+intensity = 0
+color = 0,0,0
+yscale = -.1
+fade.range = -400,-100
+[Reflection]
+intensity = 130
+
+;--------------------------------------------------------
+[Music]
+
+bgmusic = sound/Dragon Ball FighterZ OST - Goku Theme.mp3
+bgmvolume = 255
+
+[BGdef]
+ ;Filename of sprite data
+spr = TimeChamber.sff
+debugbg = 0
+
+;-------------------------------------------------------------
+
+
+
+;aurora
+
+[BG Aurora]
+type = anim
+actionno = 6
+start  = 0,-870
+delta  = .42,1
+tile=1,0
+tilespacing=400,0
+
+[BG Aurora]
+type = anim
+actionno = 6
+start  = 0,-670
+delta = .42,1
+tile=1,0
+tilespacing=400,0
+
+[BG Aurora]
+type = anim
+actionno = 6
+start = 0,-470
+delta = .42,1
+tile=1,0
+tilespacing=400,0
+
+;-----
+
+
+
+[BG Snow]
+type  = normal
+spriteno = 25, 3
+layerno = 0                
+start = 0,0
+delta = .42,1
+trans = add
+mask  = 1
+tile  = 1,1
+velocity = -2.5, 1
+
+
+;============================================================================
+[BG floor Bg Sub]
+type  = parallax
+spriteno = 0, 13
+start =0,301
+delta =.42,1
+width = 1280,4780
+yscalestart = 150
+scalestart=1,1
+;yscaledelta=.24
+mask = 0
+trans=sub
+tile=1,0
+
+
+
+
+[BG floor Bg Add]
+type  = parallax
+spriteno = 0, 10
+start =0,301
+delta =.42,1
+width = 1280,4780
+yscalestart = 150
+scalestart=1,1
+;yscaledelta=.24
+mask = 0
+Trans = Add
+tile=1,0
+
+;
+;
+[BG floor Bg Add]
+type  = parallax
+spriteno = 0,11
+start =0,301
+delta =.42,1
+width = 1280,4780
+yscalestart = 150
+scalestart=1,1
+;yscaledelta=.24
+mask = 0
+Trans = Add
+tile=1,0
+
+
+
+[BG floor Bg Add]
+type  = parallax
+spriteno = 0,12
+start =0,301
+delta =.42,1
+width = 1280,4780
+yscalestart = 150
+scalestart=1,1
+;yscaledelta=.24
+mask = 0
+Trans = Add
+tile=1,0
+
+
+;wall-------
+
+
+[BG Rojo]
+type  = normal
+spriteno = 0,15
+start = 0,-396
+delta = .42,1
+tile = 1,0
+mask = 0
+trans = Add
+
+
+[BG verde]
+type  = normal
+spriteno = 0, 16
+start = 0,-396
+delta = .42,1
+tile = 1, 0
+mask = 0
+trans = Add
+
+[BG azul]
+type  = normal
+spriteno = 0, 17
+start = 0,-396
+delta = .42,1
+tile = 1, 0
+mask = 0
+trans = Add
+;------
+;
+
+
+
+;================================================================
+
+
+
+
+;
+[BG templo]
+type  = normal
+spriteno = 0,0
+start = 0,32
+delta =.49,1
+scalestart=1,1
+mask = 1
+
+
+;
+[BG reflejo]
+type  = normal
+spriteno = 0,4
+start = 0,32
+delta = .49,1
+mask=1
+
+;
+;
+[BG escaleras]
+type  = parallax
+spriteno = 0,1
+start = 0,80
+delta =.49,1
+width = 182,190
+yscalestart = 150
+scalestart=1,1
+mask = 1
+trans = none
+
+
+
+;
+;
+;
+[BG Neblina]
+type  = normal
+spriteno = 25, 0
+start = 0,170
+delta =1,1.3
+tile= 1,0
+tilespacing = 200,0
+trans = addalpha
+alpha = 190, 256
+mask= 1
+layerno = 1
+velocity = -1.0, 0
+sin.y = 2,100,0  
+
+[BG Neblina]
+type  = normal
+spriteno = 25, 0
+start = 265,170
+delta =1,1.3
+tile= 1,0
+tilespacing = 200,0
+trans = addalpha
+alpha = 190, 256
+mask= 1
+layerno = 1
+velocity = -1.0, 0
+sin.y = -2,100,0  
+
+
+
+
+
+;;---snow
+;
+;
+[BG Frontal Snow Alexei Roschak]
+type = anim
+actionno = 9
+start = 0,-180
+id = 30
+layerno = 1
+delta = 1.3,1.35
+tile=1,0
+tilespacing=1000,0
+
+
+
+[BG Frontal Snow Alexei Roschak]
+type = anim
+actionno = 9
+start = 0,-930
+id = 30
+layerno = 1
+delta = 1.3,1.35
+tile=1,0
+tilespacing=1000,0
+
+
+[Begin Action 6]
+6,0,0,0,5,,A
+6,1,0,0,5,,A
+6,2,0,0,5,,A
+6,3,0,0,5,,A
+6,4,0,0,5,,A
+6,5,0,0,5,,A
+6,6,0,0,5,,A
+6,7,0,0,5,,A
+6,8,0,0,5,,A
+6,9,0,0,5,,A
+6,10,0,0,5,,A
+6,11,0,0,5,,A
+6,12,0,0,5,,A
+6,13,0,0,5,,A
+6,14,0,0,5,,A
+6,15,0,0,5,,A
+6,16,0,0,5,,A
+6,17,0,0,5,,A
+6,18,0,0,5,,A
+6,19,0,0,5,,A
+6,20,0,0,5,,A
+6,21,0,0,5,,A
+6,22,0,0,5,,A
+6,23,0,0,5,,A
+6,24,0,0,5,,A
+6,25,0,0,5,,A
+6,26,0,0,5,,A
+6,27,0,0,5,,A
+6,28,0,0,5,,A
+6,29,0,0,5,,A
+6,30,0,0,5,,A
+6,31,0,0,5,,A
+6,32,0,0,5,,A
+6,33,0,0,5,,A
+6,34,0,0,5,,A
+6,35,0,0,5,,A
+6,36,0,0,5,,A
+6,37,0,0,5,,A
+6,38,0,0,5,,A
+6,39,0,0,5,,A
+6,40,0,0,5,,A
+6,41,0,0,5,,A
+6,42,0,0,5,,A
+6,43,0,0,5,,A
+6,44,0,0,5,,A
+6,45,0,0,5,,A
+6,46,0,0,5,,A
+6,47,0,0,5,,A
+6,48,0,0,5,,A
+6,49,0,0,5,,A
+6,50,0,0,5,,A
+6,51,0,0,5,,A
+6,52,0,0,5,,A
+6,53,0,0,5,,A
+6,54,0,0,5,,A
+6,55,0,0,5,,A
+6,56,0,0,5,,A
+6,57,0,0,5,,A
+6,58,0,0,5,,A
+6,59,0,0,5,,A
+6,60,0,0,5,,A
+6,61,0,0,5,,A
+6,62,0,0,5,,A
+6,63,0,0,5,,A
+6,64,0,0,5,,A
+6,65,0,0,5,,A
+6,66,0,0,5,,A
+6,67,0,0,5,,A
+6,68,0,0,5,,A
+6,69,0,0,5,,A
+6,70,0,0,5,,A
+6,71,0,0,5,,A
+6,72,0,0,5,,A
+6,73,0,0,5,,A
+6,74,0,0,5,,A
+
+
+[Begin Action 9]
+9,0, 0,0, 2, , A
+9,1, 0,0, 2, , A
+9,2, 0,0, 2, , A
+9,3, 0,0, 2, , A
+9,4, 0,0, 2, , A
+9,5, 0,0, 2, , A
+9,6, 0,0, 2, , A
+9,7, 0,0, 2, , A
+9,8, 0,0, 2, , A
+9,9, 0,0, 2, , A
+9,10, 0,0, 2, , A
+9,11, 0,0, 2, , A
+9,12, 0,0, 2, , A
+9,13, 0,0, 2, , A
+9,14, 0,0, 2, , A
+9,15, 0,0, 2, , A
+9,16, 0,0, 2, , A
+9,17, 0,0, 2, , A
+9,18, 0,0, 2, , A
+9,19, 0,0, 2, , A
+9,20, 0,0, 2, , A
+9,21, 0,0, 2, , A
+9,22, 0,0, 2, , A
+9,23, 0,0, 2, , A
+9,24, 0,0, 2, , A
+9,25, 0,0, 2, , A
+9,26, 0,0, 2, , A
+9,27, 0,0, 2, , A
+9,28, 0,0, 2, , A
+9,29, 0,0, 2, , A
+9,30, 0,0, 2, , A
+9,31, 0,0, 2, , A
+9,32, 0,0, 2, , A
+9,33, 0,0, 2, , A
+9,34, 0,0, 2, , A
+9,35, 0,0, 2, , A
+9,36, 0,0, 2, , A
+9,37, 0,0, 2, , A
+9,38, 0,0, 2, , A
+9,39, 0,0, 2, , A
+9,40, 0,0, 2, , A
+9,41, 0,0, 2, , A
+9,42, 0,0, 2, , A
+9,43, 0,0, 2, , A
+9,44, 0,0, 2, , A
+9,45, 0,0, 2, , A
+9,46, 0,0, 2, , A
+9,47, 0,0, 2, , A
+9,48, 0,0, 2, , A
+9,49, 0,0, 2, , A
+9,50, 0,0, 2, , A
+9,51, 0,0, 2, , A
+9,52, 0,0, 2, , A
+9,53, 0,0, 2, , A
+9,54, 0,0, 2, , A
+9,55, 0,0, 2, , A
+9,56, 0,0, 2, , A
+9,57, 0,0, 2, , A
+9,58, 0,0, 2, , A
+9,59, 0,0, 2, , A
+
+
+
+
+
