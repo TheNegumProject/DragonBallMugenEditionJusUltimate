@@ -1,0 +1,30 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Caulifla"
+displayname ="Caulifla !"
+versiondate =25/12/2017
+mugenversion =1.1
+author ="Mikel8888" ;Edited by Shiruzato/MYTHOS
+pal.defaults =1
+
+[Files]
+sprite =Caulifla.sff
+anim =Caulifla.air
+sound =Caulifla.snd
+cmd =Caulifla.cmd
+cns =Caulifla.cns
+stcommon =common1.cns
+st =Caulifla.cns
+pal1=1.act
+pal2=SS.act
+st1=IA.cns
+st2=Specials.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

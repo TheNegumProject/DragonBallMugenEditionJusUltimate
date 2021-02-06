@@ -1,0 +1,29 @@
+
+
+[Info]
+name ="Vegetto JUS3"
+displayname ="Vegetto JUS3"
+versiondate = 25/12/2017
+mugenversion =1.0
+author ="InSeph, edited by Knightmare and Shiruzato/MYTHOS aaaaaand edited by VINICIUSONICO"
+pal.defaults =1
+[Files]
+sprite =Vegetto.sff
+anim =Vegetto.air
+sound =Vegetto.snd
+cmd =Vegetto.cmd
+cns=Vegetto.cns
+st=Vegetto.cns
+st1=common1.cns
+st2=IA.cns
+st3=Especiales.cns
+st4=Supers.cns
+st5=SS1.cns
+st6=SSB.cns
+stcommon=common1.cns
+pal1=1.act
+pal2=2.act
+pal3=3.act
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

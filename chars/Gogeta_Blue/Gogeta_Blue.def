@@ -1,0 +1,32 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Gogeta Blue"
+displayname ="Gogeta [SSB]"
+versiondate =1/3/2019
+mugenversion =1.1
+author ="Mythos/Shiruzato" ;special thanks to Mikel8888
+pal.defaults =1,2,3,4
+
+[Files]
+sprite =Gogeta.sff
+anim =Gogeta.air
+sound =Gogeta.snd
+cmd =Gogeta.cmd
+cns =Gogeta.cns
+stcommon =common1.cns
+st =Gogeta.cns
+pal1=1.act
+pal2=1.act
+pal3=1.act
+pal4=BL.act
+st1=IA.cns
+st2=Specials.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

@@ -1,0 +1,25 @@
+[Info]
+name ="Fused Zamasu"
+displayname ="Zamasu [Fusao] !"
+versiondate =25/12/2017
+mugenversion =1.1
+author ="Mikel8888" ;Actually made by Knightmare, edited by Shiruzato/MYTHOS
+pal.defaults =1
+
+[Files]
+sprite =Zamasu.sff
+anim =Zamasu.air
+sound =Zamasu.snd
+cmd =Zamasu.cmd
+cns =Zamasu.cns
+stcommon =common1.cns
+st =Zamasu.cns
+pal1=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+st4=Corrupted.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard =

@@ -1,0 +1,33 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Gohan Future"
+displayname ="Gohan [Futuro] !"
+versiondate =05/12/2017
+mugenversion =1.1
+author ="Frak20"
+pal.defaults =1,2
+
+[Files]
+sprite =Gohan.sff
+anim =Gohan.air
+sound =Gohan.snd
+cmd =Gohan.cmd
+cns =Gohan.cns
+stcommon =common1.cns
+st =Gohan.cns
+pal1=1.act
+pal2=2.act
+pal3=3.act
+st1=IA.cns
+st2=Specials.cns
+st3=Supers.cns
+st4=SS1.cns
+st5=SS2.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

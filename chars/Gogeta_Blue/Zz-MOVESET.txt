@@ -1,0 +1,42 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+D+A/A in Air - Punisher Charge
+
+COMBOS:
+
+a,a,a,a,a,a - Combo 1
+
+b,b,b,b,b - Combo 2
+
+b,b,b - Air Combo 1
+
+b,b,a - Air Combo 2
+
+Any Combo, Down+A - Punisher Charge Finisher
+
+a,a,a,a,a,a,b,b,b,b,b,b,b,b - Full Combo
+
+SPECIALS:
+
+D,DF,F,a - Super God Fist
+
+D,DB,B,a - Punisher Shield
+
+D,DF,F,b - Super Mad Blitz
+
+D,DB,B,b - Spirit Blaster
+
+D,DF,F,c - God Punisher
+
+D,DB,B,c - Spirit Detonation
+
+SUPER: 
+
+x - Transcendant God Kamehameha

@@ -1,0 +1,34 @@
+
+A - Punch
+
+B - Kick
+
+C - Ki Blast
+
+S - Power Charge
+
+SPECIALS:
+
+D,DF,F,a - Ki Liberation
+
+D,DB,B,a - Explosive Wave
+
+D,DF,F,b - Feint // Speed Attack
+
+D,DB,B,b - Crush Ball
+
+D,DF,F,c - Crush Beam
+
+D,DB,B,c - Crush Blast // Crush Cannon
+
+SUPERS: 
+
+D,DF,F,D,DF,F,a+b - Meteor Smash (Base)
+
+D,DF,F,D,DF,F,a+b - Ultra Exlosive Wave (SS2)
+
+
+
+TRANSFORMS:
+
+DOWN + A - SS1

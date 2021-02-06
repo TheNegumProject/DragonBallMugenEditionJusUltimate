@@ -1,0 +1,36 @@
+
+A - Light Combo
+
+B - Arm Grab
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+a,a,a,a,a - Light
+
+b,a - Air
+
+b,a,a,a,a,a,b,a - Full
+
+SPECIALS:
+
+D,DF,F,a - Soumasen
+
+D,DB,B,a - Chou Makouhou
+
+D,DF,F,b - Bakurikimaha
+
+D,DB,B,b - Kaikosen
+
+D,DF,F,c - Makankosappo
+
+D,DB,B,c - Cho-Bakuretsuma-Ha
+
+D,a- Regeneration (1 Time per round)
+
+SUPER: 
+
+x - Gekiretsu Kodan

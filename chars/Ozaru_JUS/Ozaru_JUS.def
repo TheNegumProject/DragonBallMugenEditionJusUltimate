@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Ozaru"
+displayname ="Ozaru"
+versiondate =08/04/2017
+mugenversion =1.1
+author ="Mikel8888"
+pal.defaults =1
+
+[Files]
+sprite =Ozaru_JUS.sff
+anim =Ozaru_JUS.air
+sound =Ozaru_JUS.snd
+cmd =Ozaru_JUS.cmd
+cns =Ozaru_JUS.cns
+stcommon =common1.cns
+st =Ozaru_JUS.cns
+pal1=1.act
+st1=IA.cns
+st2=Specials.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

@@ -1,0 +1,24 @@
+[Info]
+name ="Gohan"
+displayname ="Gohan !"
+versiondate =25/12/2017
+mugenversion =1.1
+author ="Mikel8888, edited by InSeph and Shiruzato/MYTHOS"
+pal.defaults =1
+
+[Files]
+sprite =Gohan.sff
+anim =Gohan.air
+sound =Gohan.snd
+cmd =Gohan.cmd
+cns =Gohan.cns
+stcommon =common1.cns
+st =Gohan.cns
+pal1=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

@@ -1,0 +1,28 @@
+﻿; ---- Created by Uno Tag Team Patcher ---- ;
+
+
+
+
+
+
+
+[Info]
+name ="Vegetto Blue"
+displayname ="Vegetto Blue"
+versiondate = 25\12\2017
+mugenversion =1.0
+author ="InSeph, edited by Knightmare and Shiruzato\MYTHOS"
+pal.defaults =1
+[Files]
+sprite =Vegetto.sff
+anim =Vegetto.air
+sound =Vegetto.snd
+cmd =Vegetto_Blue_unotag\Vegetto.cmd
+cns=add004basic.reb1
+st=add004basic.reb1
+stcommon=common1.cns
+pal1=1.act
+st9=Vegetto_Blue_unotag\tag_system.cns
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

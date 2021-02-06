@@ -1,0 +1,94 @@
+
+A - Light Hit
+
+B - Strong Hit
+
+D+B - Launcher
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+Base Form:
+
+a,a,a - Light
+
+b,b,b - Heavy
+
+a,b,b - Air
+
+a,a,b,b,b,a,b,b - Full
+
+Super Saiyan 2:
+
+a,a,a,a - Light
+
+b,b,b,b - Heavy
+
+a,a,b,b,b - Air
+
+a,a,a,b,b,b,b,a,a,b,b,b - Full
+
+Super Saiyan Rage:
+
+a,a,a,a - Light
+
+b,b,b,b,b - Heavy
+
+a,a,b,b,b,b - Air
+
+a,a,a,a,b,b,b,b,b,a,a,b,b,b,b - Full
+
+SPECIALS:
+
+Base Form:
+
+D,DF,F,a - Sword Rush
+
+D,DB,B,a - Explosive Wave
+
+D,DF,F,b - Burning Slash
+
+D,DB,B,b - Burning Heart
+
+D,DF,F,c - Gallick Gun
+
+D,DB,B,c - Super Energy Wave Volley
+
+D+a - Super Saiyan 2
+
+D+S - Base Form
+
+Super Saiyan 2:
+
+D,DF,F,a - Sword Rush II
+
+D,DB,B,a - Super Explosive Wave
+
+D,DF,F,b - Big Bang Attack
+
+D,DB,B,b - Wild Sense
+
+D,DF,F,c - Final Flash
+
+D,DB,B,c - Full-Power Energy Wave
+
+D+a - Super Saiyan Rage (Need 1/2 Health or less)
+
+D+S - Base Form
+
+SUPER: 
+
+Base Form:
+
+x - Shining Sword Attack
+
+Super Saiyan 2:
+
+x - Gallick Gun Assault
+
+Super Saiyan Rage:
+
+x - Sword of Hope

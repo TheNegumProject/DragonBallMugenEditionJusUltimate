@@ -1,0 +1,52 @@
+
+A - Light Combo
+
+B - Heavy Combo
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+Base Form:
+
+a,a,a - Light
+
+b,b,b - Heavy
+
+a,b - Air
+
+a,a,a,b,b,b,a,b - Full
+
+Super Perfect Form:
+
+a,a,a,a - Light
+
+b,b,b - Heavy
+
+a,a,a,b - Air
+
+a,a,a,a,b,b,b,a,a,a,b - Full
+
+SPECIALS:
+
+D,DF,F,a - Death Beam Barrage
+
+D,DB,B,a - Perfect Barrier
+
+D,DF,F,b - Death Slicer
+
+D,DB,B,b - Taiyoken
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Makankosappo
+
+D+b - Shunkan Ido
+
+D+a - Super Perfect Form
+
+SUPER: 
+
+x - Solar Kamehameha

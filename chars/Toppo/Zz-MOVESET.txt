@@ -1,0 +1,61 @@
+
+COMBOS:
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+FF,S or BB,S - Ki Dash
+
+SPECIALS:
+
+
+
+Base Form:
+
+D,DF,F,a - Justice Golpe
+
+D,DB,B,a - Justice Blow
+
+D,DF,F,b - Justice Tornado
+
+D,DB,B,b - Toppo Grab
+
+D,DF,F,c - Justice Flash
+
+D,DB,B,c - Justice Ball
+
+D+S - Hakaishin
+
+
+Hakaishin:
+
+D,DF,F,a - Mini Hakai
+
+D,DB,B,a - Powered Shell
+
+D,DF,F,b - Justice Worthless
+
+D,DB,B,b - Surprise Blow
+
+D,DF,F,c - Hakai
+
+D,DB,B,c - Super Energy Barrier
+
+
+
+SUPERS: 
+
+Base Form:
+
+x - Justice Super Wave
+
+Hakaishin:
+
+x - Full Energy Hakai
+
+

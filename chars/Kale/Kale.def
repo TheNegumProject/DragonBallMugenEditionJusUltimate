@@ -1,0 +1,30 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Kale"
+displayname ="Kale !"
+versiondate = 27/11/2017
+mugenversion = 1.1
+author ="MagoVango"
+pal.defaults =1
+
+[Files]
+sprite =Kale.sff
+anim =Kale.air
+sound =Kale.snd
+cmd =Kale.cmd
+cns =Kale.cns
+stcommon =common1.cns
+st =Kale.cns
+pal1=1.act
+pal2=SS.act
+st1=IA.cns
+st2=Specials.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

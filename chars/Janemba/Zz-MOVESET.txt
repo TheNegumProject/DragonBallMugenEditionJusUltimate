@@ -1,0 +1,36 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+a,a,a,a,a - Combo 1
+
+b,b,b,b - Combo 2
+
+b,b,b - Air
+
+a,a,a,a,a,b,b,b,b,b,b,b - Full
+
+SPECIALS:
+
+D,DF,F,a - Illusion Smash
+
+D,DB,B,a - Angry Shout
+
+D,DF,F,b - Spike Hell
+
+D,DB,B,b - Bunkai Illusion
+
+D,DF,F,c - Hell Gate
+
+D,DB,B,c - Rakshasa's Claw
+
+SUPER: 
+
+x - Lightning Shower Rain
