@@ -1,0 +1,105 @@
+[Characters]
+Goku_JUS
+empty
+empty
+empty
+empty
+Turles
+Cooler_4th_Form
+Cooler Jus
+Broly
+Janemba
+Tapion
+Beerus
+empty
+empty
+empty
+empty
+Frieza
+Goku_SS4
+empty
+empty
+empty
+empty
+Ozaru_JUS
+Bardock
+Arale
+randomselect
+Krilin
+Yamcha_JUS
+TenShinHan
+empty
+empty
+empty
+empty
+Raditz
+Goku_DBS
+Vegeta_JUS
+Vegeta_Majin
+Vegeta SS4JUS
+Vegeta_DBS
+Gohan_Teen
+Gohan_Future
+Gohan_Ultimate
+Trunks_DBZ
+Trunks
+Vegetto
+Vegetto_SSGSS
+Gogeta
+Gogeta_Blue
+Gogeta_SS4
+Gotenks_JUS
+Piccolo
+Android 17
+Android_18
+Cell_Perfect_Form
+Majin Buu
+Super_Buu_Gohan
+Kid_Buu
+Frost
+Cabba
+Hit
+Zamasu
+Black
+Fused_Zamasu
+Toppo
+Caulifla
+Kale
+Kefla
+Jiren
+;-----------------------
+[ExtraStages]
+stages\AbsoluteCloud.def
+stages\Namek2.def
+stages\Planet_Freezer_79.def
+stages\Kaioh_Sama_Stage_HR.def
+stages\Tenkaichi_Budokai.def
+stages\raditz arrived.def
+stages\Tree Of Might.def
+stages\SAIYAN_PRIDE.def
+stages\Hope.def
+stages\Rocks vegeta.def
+stages\kamehouse.def
+stages\b.def
+stages\Goku_Vs_Bills_HR.def
+stages\God_Tournament_Arena_HD.def
+stages\Island1.def
+stages\Saga_de_Torneo_de_Fuerza.def
+stages\Cell-Arena.def
+stages\planeta_vegeta.def
+stages\Planeta_de_Bills_HR.def
+stages\Goku's House.def
+stages\[DBS]World_of_Void-Universal_Suvirval_Tenkaichi_Arena.def
+stages\GokuVSGohan.def
+stages\DestroyedCity.def
+stages\MountainRoad.def
+stages\TimeChamber.def
+stages\Wasteland.def
+stages\campo_final.def
+stages\Super_Chikara_End.def
+stages\ozharu_night.def
+stages\janembashell.def
+;---------------------------------------------------------------------
+[Options]
+arcade.maxmatches = 6,6,0,0,0,0,0,0,0,0
+team.maxmatches = 3,3,0,0,0,0,0,0,0,0

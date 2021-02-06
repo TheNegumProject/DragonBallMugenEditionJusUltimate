@@ -1,0 +1,10 @@
+[FNT v2]
+fntversion = 2,00
+name = "combo"
+
+[Def]
+Type = bitmap
+Size = 338,194
+Spacing = -2,0
+Offset = 0,1
+File = combo.sff

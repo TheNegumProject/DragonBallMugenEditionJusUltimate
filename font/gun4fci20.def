@@ -1,0 +1,12 @@
+[FNT v2]
+fntversion = 2,00
+name = "Gunship Condensed Italics"
+author = "Microsoft"
+
+[Def]
+Type = truetype
+Size = 9,18
+Spacing = 1,1
+Offset = 0,0
+File = gun4fci.ttf
+Blend = 1
